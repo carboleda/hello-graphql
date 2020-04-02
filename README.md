@@ -23,18 +23,25 @@
     ```
 
 ## Execution of project
+**NOTE:** The project use by default the port 3000
+
 1. Install dependencies
     ```shell
     npm i
     ```
-2. Start
+2. Build
     ```shell
     npm run build
     ```
+3. Start
     ```shell
     npm start
     ```
-2. Start in dev mode
+4. Start in custom port
+    ```shell
+    PORT=4000 npm start
+    ```
+5. Start in dev mode (hot reload)
     ```shell
     npm run dev:w
     ```
