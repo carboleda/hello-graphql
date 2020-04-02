@@ -11,7 +11,7 @@ const options: Options = {
     graphiql: true,
     schema,
     context: {
-        messageId: 'test'
+        aGlbalData: 'something'
     }
 };
 
