@@ -23,7 +23,7 @@
     ```
 
 ## Execution of project
-**NOTE:** The project use by default the port 3000
+**NOTE:** One time the project is running open this url in your browser: http://localhost:3000/graphql
 
 1. Install dependencies
     ```shell
